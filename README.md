@@ -1,2 +1,2 @@
-# Arduino-Unity-Project-
+# Arduino-Unity-Project
 Repository for Arduino button controlling Unity game
